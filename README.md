@@ -56,7 +56,7 @@ Profile Path: Update the Firefox profile path in the script for automatic login.
 After logging in manually, press Enter when prompted to save cookies for future sessions.
 
 ## Hotkey Usage
-Stop Automation: Press Ctrl + Alt + D to stop the current process.
+Stop Automation: Press Ctrl + C to stop the current process.
 ## Limitations
 Requires manual login for the first run to save cookies.
 Configured specifically for Coursera courses; adjust XPath or CSS selectors if UI changes.
