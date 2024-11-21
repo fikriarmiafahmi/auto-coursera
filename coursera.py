@@ -1,7 +1,7 @@
 # pip install webdriver_manager
 # pip install selenium
-username = "fikri.armiafahmi@student.upj.ac.id"
-password = "Alkhamdulillah27@"
+username = "isi dulu"
+password = "isi dulu"
 
 import time
 from selenium import webdriver
