@@ -60,3 +60,11 @@ Stop Automation: Press Ctrl + Alt + D to stop the current process.
 Requires manual login for the first run to save cookies.
 Configured specifically for Coursera courses; adjust XPath or CSS selectors if UI changes.
 
+```hash
+Disclaimer of Liability:
+This script is provided for educational and informational purposes only. 
+The author is not responsible for any misuse, damage, or legal consequences 
+that may arise from the use of this software. Users are responsible for 
+complying with all applicable laws and terms of service of the platforms 
+involved.
+```
