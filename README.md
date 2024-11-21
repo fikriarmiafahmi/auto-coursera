@@ -12,8 +12,9 @@ This Python script automates interactions with Coursera courses, including marki
 
 ---
 
-## RUNNING RDP USING GITHUB
+## CREATE RDP USING GITHUB
 You can check tutorial on my repository about [RDP Github](https://github.com/fikriarmiafahmi/freeRDP).
+And then, run RDP and install requirements on below
 
 ## Prerequisites
 Ensure the following packages are installed:
