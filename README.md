@@ -43,7 +43,7 @@ password = "your-password"
 ```
 3. Run the Script
 ```bash
-python coursera_bot.py
+python coursera-rdp.py
 ```
 
 4. Input Course Links
