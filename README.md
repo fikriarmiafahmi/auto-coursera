@@ -36,21 +36,21 @@ Profile Path: Update the Firefox profile path in the script for automatic login.
    cd coursera-bot
    ```
 2. Configure User Credentials
-Update the following variables in the script:
-```python
-username = "your-email@example.com"
-password = "your-password"
-```
+   Update the following variables in the script:
+   ```python
+   username = "your-email@example.com"
+   password = "your-password"
+   ```
 3. Run the Script
-```bash
-python coursera-rdp.py
-```
+   ```bash
+   python coursera-rdp.py
+   ```
 
 4. Input Course Links
-When prompted, input the Coursera course links as a space-separated list:
-```text
-Mau input array link course (pisahkan dengan spasi): link1 link2 link3
-```
+   When prompted, input the Coursera course links as a space-separated list:
+   ```text
+   Mau input array link course (pisahkan dengan spasi): link1 link2 link3
+   ```
 
 5. Save Cookies
 After logging in manually, press Enter when prompted to save cookies for future sessions.
