@@ -56,9 +56,9 @@ Profile Path: Update the Firefox profile path in the script for automatic login.
    ## NOTE:
    Pakai link yang ada di awal course/introduction
    contoh:
-   *https://www.coursera.org/learn/introduction-to-databases/lecture/JUPWU/introduction-to-the-program*
-   atau yang
-   *https://www.coursera.org/learn/introduction-to-databases/home/module/1*
+   <br>*https://www.coursera.org/learn/introduction-to-databases/lecture/JUPWU/introduction-to-the-program*
+   <br>atau yang
+   <br>*https://www.coursera.org/learn/introduction-to-databases/home/module/1*
    
 
 6. Save Cookies
