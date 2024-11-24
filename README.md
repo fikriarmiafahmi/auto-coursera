@@ -14,6 +14,7 @@ This Python script automates interactions with Coursera courses, including marki
 ---
 
 ## CREATE RDP USING GITHUB
+### Pakai RDP agar jaringannya fast dan ngga lambat
 You can check tutorial on my repository about [Free RDP Github](https://github.com/fikriarmiafahmi/freeRDP).
 ### And then, run RDP and install requirements on below into the RDP
 
@@ -52,8 +53,15 @@ Profile Path: Update the Firefox profile path in the script for automatic login.
    ```text
    Mau input array link course (pisahkan dengan spasi): link1 link2 link3
    ```
+   ## NOTE:
+   Pakai link yang ada di awal course/introduction
+   contoh:
+   *https://www.coursera.org/learn/introduction-to-databases/lecture/JUPWU/introduction-to-the-program*
+   atau yang
+   *https://www.coursera.org/learn/introduction-to-databases/home/module/1*
+   
 
-5. Save Cookies
+6. Save Cookies
 After logging in manually, press Enter when prompted to save cookies for future sessions.
 
 ## Hotkey Usage
