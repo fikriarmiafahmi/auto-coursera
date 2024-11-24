@@ -1,5 +1,5 @@
 print("[Loading Library and Environment...]")
-from dotenv import load_dotenv
+import env
 import time, os
 import pickle
 import pyautogui
@@ -10,9 +10,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 
-load_dotenv()
-email = os.getenv("EMAIL")
-password = os.getenv("PASSWORD")
+email = env.EMAIL
+password = env.PASSWORD
 if email == "" and password == "":
     print("[ File .env is Empty ]")
     exit()
